@@ -2,10 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/entermedia-server"/>
-	<classpathentry kind="lib" path="../entermedia-server/lib/commons-cli-1.1.jar"/>
-        <classpathentry kind="lib" path="../entermedia-server/lib/commons-io-1.2.jar"/>
-        <classpathentry kind="lib" path="../entermedia-server/lib/junit.jar"/>
-        <classpathentry kind="lib" path="../entermedia-server/lib/rabbitmq-client.jar"/>
         <classpathentry kind="lib" path="lib/rabbitmq-client.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
