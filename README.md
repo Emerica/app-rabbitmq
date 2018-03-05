@@ -2,9 +2,8 @@
 Entermedia RabbitMq Transcoder
 
 
--Find out how to complie this along side/complete the "app", or just get it merged?
+-How to get the bean to load now.... bed
 
--Find out how to add the rabbitmq client jar automagically
 
 -Preset when configuring
 
