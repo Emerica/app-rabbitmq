@@ -6,7 +6,7 @@ Entermedia RabbitMq Transcoder
 
 -Preset when configuring
 
-![Config](https://imgur.com/gluMLGj)
+![Config](https://i.imgur.com/gluMLGj.png)
 
 
 -queue
