@@ -4,6 +4,8 @@ Entermedia RabbitMq Transcoder
 
 -Find out how to complie this along side, or just get it merged?
 
+-Find out how to add the rabbitmq client jar automagically
+
 -Preset when configuring
 
 ![Config](https://i.imgur.com/gluMLGj.png)
