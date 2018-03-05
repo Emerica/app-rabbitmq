@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<beans projectname="pxn" depends="entermedia" >
-  <bean id="rabbitmqTranscoder" class="org.entermediadb.asset.convert.transcoders.RabbitMQTranscoder" scope="prototype">
-		<property name="pageManager"><ref bean="pageManager" /></property>
-		<property name="exec"><ref bean="exec" /></property>
-	</bean>
- </beans>
