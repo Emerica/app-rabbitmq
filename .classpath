@@ -4,5 +4,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/entermedia-server"/>
 	<!-- im'a guess the rabbit jar could be put here -->
 	<classpathentry kind="lib" path="lib/rabbitmq-client.jar"/>
+	<classpathentry kind="lib" path="lib/rabbitmq-client-tests.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
