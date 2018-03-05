@@ -2,7 +2,7 @@
 Entermedia RabbitMq Transcoder
 
 
--Find out how to complie this along side, or just get it merged?
+-Find out how to complie this along side/complete the "app", or just get it merged?
 
 -Find out how to add the rabbitmq client jar automagically
 
